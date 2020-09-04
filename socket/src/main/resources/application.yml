@@ -1,0 +1,12 @@
+server:
+  port: 9090
+
+node-prefix: node1-
+
+hazelcast:
+  userData-ttl-seconds: 120
+  pong-ttl-seconds: 20
+
+
+ws:
+  keepalive-timeout-in-seconds: 15

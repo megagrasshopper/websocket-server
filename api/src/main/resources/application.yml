@@ -1,0 +1,8 @@
+server:
+  port: 9091
+
+sleepingTimeSec: 90
+
+hazelcast:
+  userData-ttl-seconds: 120
+  pong-ttl-seconds: 20
